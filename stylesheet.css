@@ -1,0 +1,111 @@
+body {
+        background-image:url('bg.jpg');
+        padding: 30px 0px 30px 0px;
+     }
+
+     a:link {color:#666578;}
+     a:hover {color:#9999FF;}
+
+     #wrap {
+      width:800px;
+      padding: 10px 20px 35px 20px;
+      margin: 0 auto;
+      background-color:#ffffff;
+      border-top: 10px solid #757584;
+      border-bottom: 10px solid #757584;
+      -webkit-box-shadow: 0px 0px 14px 0px rgba(50, 50, 50, 0.59);
+-moz-box-shadow:    0px 0px 14px 0px rgba(50, 50, 50, 0.59);
+box-shadow:         0px 0px 14px 0px rgba(50, 50, 50, 0.59);
+border-radius: 10px;
+     }
+
+     #top {
+
+     }
+
+     #idimg {
+      margin: 0px 0px -30px 0px;
+     }
+
+  	 #clear {
+  	 		clear:both;
+  	 }
+
+     hr {
+      width:100%;
+      height:1px;
+     }
+
+  	 #header {
+  	 		text-align:center;
+        font-family: 'Maven Pro', sans-serif;
+  	 }
+
+    .left-panel {
+    		float:left;
+   		font-family: 'Share Tech', sans-serif;
+   		color:#111111;
+   		width:200px;
+   		border:1px red;
+    }
+
+    .right-panel {
+    		float:right;
+    		width:600px;
+    		border:1px blue;
+    		font-family: 'Istok Web', sans-serif;
+    }
+
+    h1 {
+      font-family: 'Josefin Sans', sans-serif;
+      margin-bottom:-25px;
+    }
+
+    #smallhr {
+      width:50%;
+      border: 0; height: 1px; background: #333; background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc); background-image: -moz-linear-gradient(left, #ccc, #333, #ccc); background-image: -ms-linear-gradient(left, #ccc, #333, #ccc); background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
+    }
+
+    #one {
+      background:yellow;
+    }
+
+    #two {
+
+    }
+
+    #three {
+
+    }
+
+    #four {
+
+    }
+
+    #headd {
+      font-size:60px;
+      letter-spacing:8px;
+      text-align: center;
+      clear: both;
+      margin-top:-20px;
+    }
+
+    p {
+      font-size:13px;
+    }
+
+    li {
+      font-size:13px;
+    }
+
+    section {
+      overflow: hidden;
+    }
+
+    a {
+      text-decoration:none;
+    }
+
+    #special {
+      font-size:16px;
+    }
